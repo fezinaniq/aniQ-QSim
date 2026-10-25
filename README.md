@@ -10,6 +10,8 @@ watch circuits inside the game.
 It is built for learning: the code is small and readable, so you can see exactly how state
 vectors, gates, entanglement and measurement work.
 
+![CLI demo](docs/demo-cli.gif)
+
 ## Install
 
 ```bash
