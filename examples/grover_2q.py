@@ -1,4 +1,4 @@
-"""Grover's search on 2 qubits: find a marked item among 4 with ONE oracle call.
+""""Grover's search on 2 qubits: find a marked item among 4 with ONE oracle call.
 
 Classically you need up to 3 guesses to be sure. Grover's algorithm on 4 items
 amplifies the marked state to probability 1 after a single iteration.
