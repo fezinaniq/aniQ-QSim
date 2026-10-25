@@ -1,7 +1,6 @@
-import numpy as np
-from qubit import Qubit
-from gates import *
 from bloch import *
+from gates import *
+from qubit import Qubit
 
 q = Qubit()
 print("initial qubit: ", q)
