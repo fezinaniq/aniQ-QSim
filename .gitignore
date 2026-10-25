@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+server/
+mc_origin.json
+*.jar
+world/
+logs/
+.vscode/
+.idea/

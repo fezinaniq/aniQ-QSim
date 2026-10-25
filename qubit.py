@@ -1,6 +1,6 @@
-import numpy as np 
- 
- 
+import numpy as np
+
+
 class Qubit:    
     def __init__(self, alpha=1 , beta=0):
         self.state = np.array([alpha,beta], dtype=complex)
